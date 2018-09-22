@@ -1,1 +1,2 @@
-# Aula3---Econometria
+# A3-Econometria
+# Econometria Avançada Aula 3
